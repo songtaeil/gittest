@@ -5,7 +5,7 @@ public enum Continent {
     EUROPE("Europe"),
     ASIA("Asia - korea - pusan"),
     AFRICA("Africa"),
-    SOUTH_AMERICA("South America"),
+    SOUTH_AMERICA("South America - washingtone"),
     NORTH_AMERICA("North America"),
     AUSTRALIA_OCEANIA("Australia and Oceania");
     private String label;
