@@ -40,7 +40,7 @@ public class Country {
         countries.add(BELGIUM);
         countries.add(SPAIN);
         countries.add(ENGLAND);
-        countries.add(new Country(6L, "Sweden", "Stockholm", 9.354, Continent.EUROPE, 450));
+        countries.add(new Country(6L, "Sweden", "santacruz", 9.354, Continent.EUROPE, 450));
         countries.add(new Country(7L, "Croatia", "Zagreb", 4.290, Continent.EUROPE, 57));
         countries.add(ICELAND);
         countries.add(SOUTH_AFRICA);
