@@ -3,7 +3,7 @@ package com.cjhv;
 public enum Continent {
 
     EUROPE("Europe"),
-    ASIA("Asia - korea"),
+    ASIA("Asia - korea - seoul"),
     AFRICA("Africa"),
     SOUTH_AMERICA("South America"),
     NORTH_AMERICA("North America"),
