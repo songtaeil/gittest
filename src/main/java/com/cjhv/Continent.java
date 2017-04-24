@@ -4,7 +4,7 @@ public enum Continent {
 
     EUROPE("Europe - paris"),
     ASIA("Asia - korea - pusan"),
-    AFRICA("Africa"),
+    AFRICA("Africa - gabong"),
     SOUTH_AMERICA("South America - washingtone"),
     NORTH_AMERICA("North America - california"),
     AUSTRALIA_OCEANIA("Australia and Oceania");
